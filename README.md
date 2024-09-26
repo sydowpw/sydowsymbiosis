@@ -1,5 +1,5 @@
 
-# sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Check out Patrick Sydow's website to learn more about his research, outreach, and teaching efforts! 
 
 Visit **[sydowpw.github.io/sydowsymbiosis](https://sydowpw.github.io/sydowsymbiosis)** 🚀
 
