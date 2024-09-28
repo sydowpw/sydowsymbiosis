@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Sydow Symbiosis
+subtitle: Patrick Sydow Ph.D. Agricultural and Environmental Plant Science
+description: TEST
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: pws5408@psu.edu
+  orcid: 0009-0001-4761-5446
+  google-scholar: 8VlfH0IAAAAJ
+  github: sydowpw
 
 ### jekyll settings
 
