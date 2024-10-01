@@ -74,6 +74,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="collaborators"
-  title="Collaborations
+  title="Collaborations"
   text=text
 %}
