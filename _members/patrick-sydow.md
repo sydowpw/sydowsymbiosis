@@ -1,14 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+name: Patrick Sydow
+image: images/pat.jpg
+role: phd
+affiliation: Penn State
 aliases:
-  - J. Smith
-  - J Smith
+  - P Sydow
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://sydowpw.github.io/sydowsymbiosis
+  orcid: 0009-0001-4761-5446
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

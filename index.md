@@ -1,13 +1,11 @@
 ---
 ---
 
-# sydowpwDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Utilizing traditional crop model systems to determine genetic drivers of root-rhizosphere interactions in changing climates.
 
 
 
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
@@ -63,8 +61,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="collaborators"
+  text="View collaborations"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="collaborators"
+  title="Collaborations
   text=text
 %}
