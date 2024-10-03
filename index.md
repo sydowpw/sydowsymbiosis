@@ -7,7 +7,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My research aims to improve nitrogen uptake by determining how plant genetics can influence the selection and maintenance of symbiotic relationships between legumes, rhizobia and arbuscular mycorrhizal fungi. I leverage natural diversity within legume and maize model systems to better understand the genetic architecture and local adaptation of root traits that alter plant-microbe interactions and nutrient uptake.
 
 {%
   include button.html
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teaching.jpg"
   link="teaching"
   title="Teaching"
   flip=true
