@@ -31,7 +31,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 {%
   include button.html
-  type="Burghardt Lab
+  type="Burghardt Lab"
   tooltip="Lab Website of PI #1"
   link="https://lianaburghardtlab.com/"
 %}
