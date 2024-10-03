@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Sydow Symbiosis
-subtitle: Patrick Sydow Ph.D. Agricultural and Environmental Plant Science
+title: Patrick Sydow
+subtitle: Ph.D. Agricultural and Environmental Plant Science
 description: TEST
 header: images/background.jpg
 footer: images/background.jpg
@@ -27,9 +27,14 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
+  # markdown files in /_researchposts
   - scope:
-      type: "posts"
+      type: "researchposts"
+    values:
+      layout: post
+  # markdown files in /_blogposts
+  - scope:
+      type: "blogposts"
     values:
       layout: post
 
@@ -38,8 +43,12 @@ collections:
   members:
     output: true
   # generate page for each post
-  posts:
+  researchposts:
     output: true
+  # generate page for each post
+  blogposts:
+    output: true
+
 
 # jekyll plugins
 plugins:

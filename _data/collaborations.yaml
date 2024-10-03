@@ -1,6 +1,6 @@
-- title: Cool Dataset
+- title: NSF HAPMAP
   subtitle: a subtitle
-  group: featured
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,9 +8,9 @@
   tags:
     - resource
 
-- title: Cool Package
+- title: ENSA
   subtitle: a subtitle
-  group: featured
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -18,30 +18,32 @@
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: USDA Gene Fun
   subtitle: a subtitle
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
-    - publication
 
-- title: Cool Web App
+- title: AVT
   subtitle: a subtitle
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
 
-- title: Cool Web Server
+- title: unPAK
   subtitle: a subtitle
+  group: previous
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://arabidopsisunpak.org/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource

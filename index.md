@@ -3,8 +3,6 @@
 
 # Utilizing traditional crop model systems to determine genetic drivers of root-rhizosphere interactions in changing climates.
 
-
-
 {% include section.html %}
 
 {% capture text %}
@@ -14,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See my work"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="My Research"
   text=text
 %}
 
@@ -36,8 +34,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="teaching"
+  text="Check out my teaching"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -48,8 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="teaching"
+  title="Teaching"
   flip=true
   style="bare"
   text=text
@@ -61,8 +59,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="collaborators"
-  text="View collaborations"
+  link="about"
+  text="View background, contct, and CV"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -73,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="collaborators"
-  title="Collaborations"
+  link="about"
+  title="About Me"
   text=text
 %}

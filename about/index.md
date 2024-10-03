@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: About Me!
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Background, CV, and contact info
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-file-text" %}About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -14,21 +14,28 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="pws5408@psu.edu"
+  link="pws5408@psu.edu"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type=""
+  text="(925) 998-7090"
+  link="+1-925-998-7090"
 %}
 {%
   include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  type="CV Oct 2024"
+  tooltip="PDF of my current CV"
   link="https://www.google.com/maps"
 %}
+{%
+  include button.html
+  type="Burghardt Lab
+  tooltip="Lab Website of PI #1"
+  link="https://lianaburghardtlab.com/"
+%}
+
 
 {% include section.html %}
 
