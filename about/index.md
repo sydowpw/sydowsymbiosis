@@ -25,17 +25,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 {%
   include button.html
-  type="CV Oct 2024"
-  tooltip="PDF of my current CV"
-  link="https://www.google.com/maps"
+  type=""
+  text="CV Oct 2024"
+  tooltip="PDF of my latest CV"
+  link="https://drive.google.com/file/d/1uKrZLKjltUknVyT70Fv1MgpBTC_8Jfjv/view?usp=sharing"
 %}
 {%
   include button.html
-  type="Burghardt Lab"
+  type=""
+  text="Burghardt Lab"
   tooltip="Lab Website of PI #1"
   link="https://lianaburghardtlab.com/"
 %}
-
 
 {% include section.html %}
 
@@ -43,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/patlianasoy.jpg"
+  caption="The only thing better than being in the field... "
 %}
 
 {% endcapture %}
@@ -53,8 +54,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/patbike.jpg"
+  caption="... is the bike ride to get there."
 %}
 
 {% endcapture %}

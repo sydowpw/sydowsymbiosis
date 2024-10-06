@@ -55,7 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Relying on collaborative paper discussions, interactive computational workshops, and experiences setting up experiments with diverse 
+species, I aim to encourage curiosity, critical thinking, and creative problem solving in pertinent academic and agricultural
+situations.
 
 {%
   include button.html
